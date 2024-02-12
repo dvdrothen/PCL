@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "frase": "Olá, em que posso ajudar?",
+        "chaves": [
+            "olá",
+            "tudo",
+            "bem",
+            "boa",
+            "tarde",
+            "bom",
+            "dia"
+        ],
+        "sinonimos": [],
+        "principais": [
+            "olá",
+            "boa",
+            "tarde",
+            "bom",
+            "dia"
+        ],
+        "negativas": [
+            "não",
+            "nada",
+            "nunca",
+            "jamais",
+            "negativo"
+        ]
+    }
+]
